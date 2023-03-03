@@ -1,6 +1,6 @@
 module github.com/bytopia/kite
 
-go 1.17
+go 1.18
 
 require (
 	github.com/go-kratos/kratos/v2 v2.5.4
